@@ -1,5 +1,6 @@
 # Shopping Lists App
 6th semester course project, written in Java using Android Studio
+This app allows users to create, edit, and delete shopping lists. Firebase Authentication is used for authentication and registration, Firebase Realtime Database is used to store users' data. Room Database is used to store guest users' data.
 
 ### Tutorials used:
 1. https://youtu.be/Shh0N45S4hE
