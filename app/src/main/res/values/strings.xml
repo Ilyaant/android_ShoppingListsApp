@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShoppingListApp</string>
+    <string name="enter_item_here">Enter item here</string>
+    <string name="my_shopping_lists">My Shopping Lists</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="continue_as_guest">Continue as guest</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+</resources>
